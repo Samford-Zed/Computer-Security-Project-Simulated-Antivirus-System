@@ -1,0 +1,4 @@
+Employee records (sample data):
+- Employee ID list
+- Department assignments
+- Role summaries

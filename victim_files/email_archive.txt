@@ -1,0 +1,4 @@
+Email archive (example):
+- Subject: Quarterly Review
+- Subject: Team Standup
+- Subject: Product Launch

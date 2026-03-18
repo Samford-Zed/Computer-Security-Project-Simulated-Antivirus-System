@@ -1,0 +1,4 @@
+Personal finances (demo):
+- Budget overview
+- Savings targets
+- Expense categories

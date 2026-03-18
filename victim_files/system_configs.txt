@@ -1,0 +1,4 @@
+System configurations (demo):
+- App settings
+- Environment variables
+- Logging levels

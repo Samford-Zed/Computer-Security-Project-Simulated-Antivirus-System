@@ -1,0 +1,4 @@
+Project blueprint (example):
+- Architecture overview
+- Module breakdown
+- Deployment considerations

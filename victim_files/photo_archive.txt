@@ -1,0 +1,4 @@
+Photo archive (sample):
+- IMG_0001.jpg
+- IMG_0002.jpg
+- IMG_0003.jpg
