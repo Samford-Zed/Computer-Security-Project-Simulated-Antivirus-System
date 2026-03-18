@@ -50,13 +50,10 @@ This will:
 ## 📁 Folder Structure
 
 ```
-virus/
 ├── scripts/
 │   ├── run.py              - Main launcher with menu
 │   ├── antivirus.py         - Antivirus scanner
 │   └── simple_virus.py     - Virus simulation
-├── docs/
-│   └── README.md            - This file
 ├── victim_files/            - Folder with test files
 │   ├── criminal_history.txt
 │   ├── bank_accounts.txt
@@ -70,7 +67,9 @@ virus/
 │   ├── system_configs.txt
 │   ├── photo_archive.txt
 │   └── email_archive.txt
+├── README.md                - This file
 └── START_HERE.bat           - Quick start (Windows)
+
 ```
 
 ## ⚠️ Important Notes
